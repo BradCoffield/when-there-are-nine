@@ -5,3 +5,21 @@
 <script src="/assets/js/breakpoints.min.js"></script>
 <script src="/assets/js/util.js"></script>
 <script src="/assets/js/main.js"></script>
+
+<script>
+
+  let pageTitle = document.getElementById("page-title");
+  let arr = document.querySelectorAll(".navLink");
+  arr.forEach((navItem) => {
+    if (pageTitle.innerHTML.toUpperCase() == navItem.innerHTML.toUpperCase()) {
+      const parent = navItem.parentNode;
+      parent.classList.add("active");
+    }
+    if (pageTitle.innerHTML.toUpperCase() == "WHEN THERE ARE NINE") {
+      if (navItem.innerHTML.toUpperCase() == "THE PROJECT") {
+        const parent = navItem.parentNode;
+        parent.classList.add("active");
+      }
+    }
+  });
+</script>
