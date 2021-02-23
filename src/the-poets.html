@@ -4,4 +4,9 @@ title: The Poets
 subtitle: "Learn more about our wonderful poets."
 ---
 
-<p><a href="/the-poets/patricia-smith/">Patrica Smith</a></p>
+<!-- <p><a href="/the-poets/patricia-smith/">Patrica Smith</a></p> -->
+
+{%- for poet in site.poetsMetadata -%}
+ 
+  <li><a href="/the-poets/{{poet.url}}/">{{ poet.name }}</a></li>
+{%- endfor -%}

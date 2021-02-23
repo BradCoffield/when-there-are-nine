@@ -1,11 +1,133 @@
 {
-    "title": "KidLit Connection",
-    "url": "https://www.kidlitconnection.com",
-    "baseurl": "",
-    "repo": "https://github.com/BradCoffield/kidlitconnection",
-    "comments": false,
-    "author": {
-      "name": "Sue Lawrence"
+  "title": "When There Are Nine",
+  "url": "",
+  "baseurl": "",
+  "repo": "https://github.com/BradCoffield/when-there-are-nine",
+  "comments": false,
+  "author": {
+    "name": "When There Are Nine"
+  },
+  "og_locale": "en_US",
+  "poetsMetadata": [
+    {
+      "name": "Patricia Smith",
+      "order": 1,
+      "url": "patricia-smith"
     },
-    "og_locale": "en_US"
-  }
+    {
+      "name": "John Bonanni",
+      "order": 2,
+      "url": "john-bonanni"
+    },
+    {
+      "name": "Susan Rich",
+      "order": 3,
+      "url": "susan-rich"
+    },
+    {
+      "name": "Maggie Koger",
+      "order": 4,
+      "url": "maggie-koger"
+    },
+    {
+      "name": "Ken Rodgers",
+      "order": 5,
+      "url": "ken-rodgers"
+    },
+    {
+      "name": "Julia Spicher Kasdorf",
+      "order": 6,
+      "url": "julia-spicher-kasdorf"
+    },
+    {
+      "name": "Tami Haaland",
+      "order": 7,
+      "url": "tami-haaland"
+    },
+    {
+      "name": "Mimi Plevin-Foust",
+      "order": 8,
+      "url": "mimi-plevin-floust"
+    },
+    {
+      "name": "Suzanne Roberts",
+      "order": 9,
+      "url": "suzanne-roberts"
+    },
+    {
+      "name": "Gayle Brandeis",
+      "order": 10,
+      "url": "gayle-brandeis"
+    },
+    {
+      "name": "Chelsea Dingman",
+      "order": 11,
+      "url": "chelsea-dingman"
+    },
+    {
+      "name": "Luke Johnson",
+      "order": 12,
+      "url": "luke-johnson"
+    },
+    {
+      "name": "Ilyse Kusnetz",
+      "order": 13,
+      "url": "ilyse-kusnetz"
+    },
+    {
+      "name": "Brian Turner",
+      "order": 14,
+      "url": "brian-turner"
+    },
+    {
+      "name": "Faylita Hicks",
+      "order": 15,
+      "url": "faylita-hicks"
+    },
+    {
+      "name": "Kathryn de Lancellotti",
+      "order": 16,
+      "url": "kathryn-de-lancellotti"
+    },
+    {
+      "name": "Krista Lukas",
+      "order": 17,
+      "url": "krista-lukas"
+    },
+    {
+      "name": "D.L. Yang",
+      "order": 18,
+      "url": "dl-yang"
+    },
+    {
+      "name": "Marti Stephen",
+      "order": 19,
+      "url": "marti-stephen"
+    },
+    {
+      "name": "Theresa Brightman",
+      "order": 20,
+      "url": "theresa-brightman"
+    },
+    {
+      "name": "Guy Biederman",
+      "order": 21,
+      "url": "guy-biederman"
+    },
+    {
+      "name": "Sholeh Wolpe",
+      "order": 22,
+      "url": "sholeh-wolpe"
+    },
+    {
+      "name": "Paul Michael Glaser",
+      "order": 23,
+      "url": "paul-michael-glaser"
+    },
+    {
+      "name": "Harrison Solow",
+      "order": 24,
+      "url": "harrison-solow"
+    }
+  ]
+}
