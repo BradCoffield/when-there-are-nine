@@ -3,3 +3,25 @@
     min-height: 800px;
     margin-bottom: 4rem!important;
 }
+
+
+#poets-index{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.poets-index-item   {
+     background-color: #212931;
+     color: white;
+     font-size: 18px;
+     padding:1rem;
+     margin: 1rem;
+     /* display: inline; */
+     text-transform: uppercase;
+     font-weight: bold;
+     font-family: Source Sans Pro, Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+
+     
+}
+ 

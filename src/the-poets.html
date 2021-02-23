@@ -5,8 +5,12 @@ subtitle: "Learn more about our wonderful poets."
 ---
 
 <!-- <p><a href="/the-poets/patricia-smith/">Patrica Smith</a></p> -->
-
-{%- for poet in site.poetsMetadata -%}
+<div id="poets-index">
  
-  <li><a href="/the-poets/{{poet.url}}/">{{ poet.name }}</a></li>
-{%- endfor -%}
+    
+    {%- for poet in site.poetsMetadata -%}
+    
+       <a class="poets-index-item" href="/the-poets/{{poet.url}}/">{{ poet.name }}</a> 
+    {%- endfor -%}
+ 
+</div>
