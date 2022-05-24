@@ -15,119 +15,135 @@
       "url": "patricia-smith"
     },
     {
-      "name": "John Bonanni",
+      "name": "Theresa Göttl Brightman",
       "order": 2,
-      "url": "john-bonanni"
-    },
-    {
-      "name": "Susan Rich",
-      "order": 3,
-      "url": "susan-rich"
-    },
-    {
-      "name": "Maggie Koger",
-      "order": 4,
-      "url": "maggie-koger"
-    },
-    {
-      "name": "Ken Rodgers",
-      "order": 5,
-      "url": "ken-rodgers"
-    },
-    {
-      "name": "Julia Spicher Kasdorf",
-      "order": 6,
-      "url": "julia-spicher-kasdorf"
-    },
-    {
-      "name": "Tami Haaland",
-      "order": 7,
-      "url": "tami-haaland"
-    },
-    {
-      "name": "Mimi Plevin-Foust",
-      "order": 8,
-      "url": "mimi-plevin-floust"
-    },
-    {
-      "name": "Suzanne Roberts",
-      "order": 9,
-      "url": "suzanne-roberts"
-    },
-    {
-      "name": "Gayle Brandeis",
-      "order": 10,
-      "url": "gayle-brandeis"
-    },
-    {
-      "name": "Chelsea Dingman",
-      "order": 11,
-      "url": "chelsea-dingman"
-    },
-    {
-      "name": "Luke Johnson",
-      "order": 12,
-      "url": "luke-johnson"
-    },
-    {
-      "name": "Ilyse Kusnetz",
-      "order": 13,
-      "url": "ilyse-kusnetz"
-    },
-    {
-      "name": "Brian Turner",
-      "order": 14,
-      "url": "brian-turner"
-    },
-    {
-      "name": "Faylita Hicks",
-      "order": 15,
-      "url": "faylita-hicks"
-    },
-    {
-      "name": "Kathryn de Lancellotti",
-      "order": 16,
-      "url": "kathryn-de-lancellotti"
-    },
-    {
-      "name": "Krista Lukas",
-      "order": 17,
-      "url": "krista-lukas"
-    },
-    {
-      "name": "D.L. Yang",
-      "order": 18,
-      "url": "dl-yang"
-    },
-    {
-      "name": "Marti Stephen",
-      "order": 19,
-      "url": "marti-stephen"
-    },
-    {
-      "name": "Theresa Brightman",
-      "order": 20,
       "url": "theresa-brightman"
     },
     {
-      "name": "Guy Biederman",
-      "order": 21,
-      "url": "guy-biederman"
+      "name": "Krista Lukas",
+      "order": 3,
+      "url": "krista-lukas"
+    },
+    {
+      "name": "Brian Turner",
+      "order": 4,
+      "url": "brian-turner"
+    },
+    {
+      "name": "Suzanne Roberts",
+      "order": 5,
+      "url": "suzanne-roberts"
+    },
+    {
+      "name": "Luke Johnson",
+      "order": 6,
+      "url": "luke-johnson"
     },
     {
       "name": "Sholeh Wolpé",
-      "order": 22,
+      "order": 7,
       "url": "sholeh-wolpe"
     },
     {
+      "name": "Kathryn de Lancellotti",
+      "order": 8,
+      "url": "kathryn-de-lancellotti"
+    },
+    {
       "name": "Paul Michael Glaser",
-      "order": 23,
+      "order": 9,
       "url": "paul-michael-glaser"
     },
     {
+      "name": "Ashley Kunsa",
+      "order": 10,
+      "url": "ashley-kunsa"
+    },
+    {
+      "name": "John Bonanni",
+      "order": 12,
+      "url": "john-bonanni"
+    },
+    {
+      "name": "Gayle Brandeis",
+      "order": 13,
+      "url": "gayle-brandeis"
+    },
+    {
+      "name": "Mimi Plevin-Foust",
+      "order": 14,
+      "url": "mimi-plevin-floust"
+    },
+    {
+      "name": "Margaret Koger",
+      "order": 15,
+      "url": "margaret-koger"
+    },
+    {
+      "name": "Julia Spicher Kasdorf",
+      "order": 16,
+      "url": "julia-spicher-kasdorf"
+    },
+    {
+      "name": "Rachel Rix",
+      "order": 17,
+      "url": "rachel-rix"
+    },
+    {
+      "name": "Chelsea Dingman",
+      "order": 18,
+      "url": "chelsea-dingman"
+    },
+    {
+      "name": "Ilyse Kusnetz",
+      "order": 19,
+      "url": "ilyse-kusnetz"
+    },
+    {
+      "name": "Susan Rich",
+      "order": 20,
+      "url": "susan-rich"
+    },
+    {
+      "name": "D.L. Yang",
+      "order": 21,
+      "url": "dl-yang"
+    },
+    {
       "name": "Harrison Solow",
-      "order": 24,
+      "order": 22,
       "url": "harrison-solow"
+    },
+    {
+      "name": "Faylita Hicks",
+      "order": 23,
+      "url": "faylita-hicks"
+    },
+    {
+      "name": "Guy Biederman",
+      "order": 24,
+      "url": "guy-biederman"
+    },
+    {
+      "name": "Ken Rodgers",
+      "order": 25,
+      "url": "ken-rodgers"
+    },
+    {
+      "name": "Carla Schick",
+      "order": 26,
+      "url": "carla-schick"
+    },
+      {
+        "name": "Marti Stephen",
+        "order": 28,
+        "url": "marti-stephen"
+      },
+    {
+      "name": "Tami Haaland",
+      "order": 27,
+      "url": "tami-haaland"
     }
+  
   ]
 }
