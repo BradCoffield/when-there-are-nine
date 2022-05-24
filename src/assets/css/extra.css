@@ -39,3 +39,13 @@
 	background-attachment: scroll, scroll, scroll;
 	z-index: -1;
 }
+
+ul.actions {
+    flex-wrap: wrap;
+}
+ul.actions li{margin:.5rem 0}
+
+.flexxed {
+    display: flex;
+    flex-wrap: wrap;
+}
