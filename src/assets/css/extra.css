@@ -49,3 +49,36 @@ ul.actions li{margin:.5rem 0}
     display: flex;
     flex-wrap: wrap;
 }
+
+#flexxed-editors {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.editor-wrap {
+    margin-bottom: 3rem;
+}
+
+#event-callout {
+    display: flex;
+    flex-wrap: wrap;
+    /* background-image: url('../../images/backgrounds/omid-armin-NeTAp5yme0A-unsplash.jpg'); */
+    background-color: #212931;
+    background-position: center;
+     align-items: center;
+     height: 75px;
+    justify-content: center;
+    color: white;
+    margin-bottom: 2rem;
+    
+}
+#event-callout-heading {
+    margin-bottom: 0px;
+    color: white;
+}
+
+#event-callout-heading-text a {
+    color:white;
+    border-bottom: 1px dotted white;
+}
