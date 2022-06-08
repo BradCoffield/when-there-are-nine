@@ -70,7 +70,8 @@ ul.actions li{margin:.5rem 0}
      height: 75px;
     justify-content: center;
     color: white;
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
+    margin-top: -2rem;
     
 }
 #event-callout-heading {
@@ -81,4 +82,18 @@ ul.actions li{margin:.5rem 0}
 #event-callout-heading-text a {
     color:white;
     border-bottom: 1px dotted white;
+}
+
+.floated-paragraph-image {
+    float: left;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    max-width: 95%;
+}
+		@media screen and (max-width: 840px) {
+    .floated-paragraph-image {
+    float: none;
+    margin: 0 auto 2rem;
+    display: block;
+}
 }
